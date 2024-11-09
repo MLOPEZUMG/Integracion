@@ -7,7 +7,7 @@ The application was built using [Angular 9](https://angular.io/), [Bootstrap 4](
 **The Full Stack Application with Spring back-end was deployed on Cloud Foundry, to access it, click [here](https://gbloch-luv2shop.cfapps.io/).**
 
 To see the back-end of this application implemented with Java Spring, see [here](https://github.com/gaetanBloch/ecommerce-spring-back).
-nueva prueba
+nuevas pruebas
 ## Running Application Process on your computer
 prueba integracion
 1. Download the application by Clicking [this link](https://github.com/gaetanBloch/ecommerce-angular-front/archive/master.zip)
